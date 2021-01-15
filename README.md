@@ -15,7 +15,7 @@ This config work on very very very good in
 ### Catalina
 ### Big Sur
 
- <img src="Docs/ScreenShot.png" width="300px" alt="hackintosh_big_sur">
+ <img src="ScreenShot.png" width="300px" alt="hackintosh_big_sur">
 tnx :
 https://www.youtube.com/watch?v=khs7kEAELWc
 
