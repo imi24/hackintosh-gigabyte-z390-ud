@@ -1,4 +1,4 @@
-# Hackintosh Gigabyte Z390 UD
+# Hackintosh (OpenCore) Gigabyte Z390 UD
 I have good config for my system and i hope save your day with this.
 
 | Specifications | Detail                                                  |
@@ -23,3 +23,8 @@ For this configuration, I just went through the following method step by step
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point
 
 Good luck
+
+###############################
+### EFI Ventura has been added
+every think work very well
+:)
