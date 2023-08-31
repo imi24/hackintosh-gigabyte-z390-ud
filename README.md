@@ -26,5 +26,6 @@ Good luck
 
 ###############################
 ### EFI Ventura has been added
+befor use set your PlatformInfo for iMac20,2
 every think work very well
 :)
